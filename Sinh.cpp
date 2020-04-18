@@ -156,7 +156,7 @@ void dem() {
 		}
 	}
 	cout << "count: " << count;
-	cout<<"chuc mung ban";
+	
 }
 
 int main() {
